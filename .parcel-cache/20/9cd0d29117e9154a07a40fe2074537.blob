@@ -1,0 +1,2 @@
+const api = jQuery('.test') // 不返回元素们，返回 api 对象
+api.addClass('red') // 遍历刚才获取的元素，添加 .red

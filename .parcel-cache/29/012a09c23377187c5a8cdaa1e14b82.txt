@@ -1,0 +1,12 @@
+11
+38E:\Record\dom-2\dist\index.f49f0c0c.js132689031828261871 0
+27E:\Record\dom-2\src\main.js132689028717521851 0
+20E:\Record\dom-2\dist132689031828401577 1
+19E:\Record\dom-2\src132689049629799315 1
+42E:\Record\dom-2\dist\index.bd78eeec.js.map132689031828341659 0
+38E:\Record\dom-2\dist\index.bd78eeec.js132689031828261871 0
+30E:\Record\dom-2\src\.gitignore132689049829672145 0
+29E:\Record\dom-2\src\jQuery.js132689031826875582 0
+30E:\Record\dom-2\src\index.html132685447819456021 0
+42E:\Record\dom-2\dist\index.f49f0c0c.js.map132689031828341659 0
+31E:\Record\dom-2\dist\index.html132689031828261871 0
